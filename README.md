@@ -97,3 +97,7 @@
   <img height= "150" src="https://github-readme-stats.vercel.app/api?username=mehmeturmac&theme=react&show_icons=true&include_all_commits=true" />
   <img height= "150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mehmeturmac&theme=react&langs_count=7&layout=compact&hide=yacc,gdscript" />
 </p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=mehmeturmac" alt="mehmeturmac" />
+</p>
